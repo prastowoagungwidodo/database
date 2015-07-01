@@ -1,0 +1,24 @@
+{
+	"name" : "transformatika/database",
+	"type" : "library",
+	"description" : "Database Class",
+	"keywords" : [
+		"database"
+	],
+	"homepage" : "http://www.transformatika.com",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Prastowo Agung Widodo",
+			"email" : "agung@transformatika.com"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/transformatika/mvc/issues",
+		"email" : "support@transformatika.com"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Transformatika\\Database\\" : "src/"
+		}
+	}
+}
